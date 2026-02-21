@@ -1,1 +1,24 @@
+# Executables
+*.exe
+*.out
+*.app
 
+# Object files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+.vs/
+
+# Compiled files
+*.dll
+*.lib
+*.a
+
+# Logs
+*.log
+
+# Database credentials
+# Don't upload files with passwords!
+*.config
